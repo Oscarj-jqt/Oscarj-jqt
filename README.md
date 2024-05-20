@@ -7,4 +7,4 @@ Student Web Developer | Passionate Learner | Code Enthusiast
 
 💼 Studying as a Developer at HETIC.
 
-🌱 Learning Java.
+🌱 Learning Java  - Node.JS - React
