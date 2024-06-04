@@ -3,7 +3,7 @@
 
 Hello, I'm Oscar! 👋
 
-Student Web Developer | Passionate Learner | Code Enthusiast
+Student Web Developer
 
 💼 Studying as a Developer at HETIC
 
