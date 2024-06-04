@@ -5,6 +5,6 @@ Hello, I'm Oscar! 👋
 
 Student Web Developer
 
-💼 Studying as a Developer at HETIC
+Studying as a Developer at HETIC
 
-🌱 Learning Java  - Node.JS - React
+Learning Java  - Node.JS - React
