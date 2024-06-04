@@ -1,7 +1,7 @@
 # Oscar
 
 
-Hello, I'm Oscar! 👋
+Hello, welcome to my Github! 👋
 
 Student Web Developer
 
