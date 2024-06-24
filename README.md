@@ -5,6 +5,6 @@ Hello, welcome to my Github! 👋
 
 Student Web Developer
 
-Studying as a Developer at HETIC
+Studying at HETIC
 
 Learning...
