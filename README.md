@@ -11,9 +11,7 @@ I am Oscar Jacquet, a Student Web Developer based in France.
 
 ## 📦 Toolbox
 
-```html
 ### Programming Languages
-<div style="border: 1px solid #d3d3d3; padding: 10px; background-color: #f9f9f9;">
 - JavaScript
 - Java
 - TypeScript
@@ -52,5 +50,3 @@ I am Oscar Jacquet, a Student Web Developer based in France.
 - Symfony
 - Spring
 - Angular
-
-```
